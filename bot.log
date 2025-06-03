@@ -1,0 +1,77 @@
+2025-06-02 14:00:14,974 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:02:22,460 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:04:50,235 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:05:44,690 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:08:01,331 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:08:27,285 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:14:58,152 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:16:07,274 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:16:15,538 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:49:39,200 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:52:11,742 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:53:00,304 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:55:44,137 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:55:51,155 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:56:27,212 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 14:57:55,257 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 15:04:53,678 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 15:04:53,683 - discord.client - INFO - logging in using static token
+2025-06-02 15:04:54,617 - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2025-06-02 15:04:55,001 - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-7x22",{"micros":76092,"calls":["id_created",{"micros":456,"calls":[]},"session_lookup_time",{"micros":351,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-52",{"micros":73795,"calls":["start_session",{"micros":37408,"calls":["discord-api-rpc-67db4945bc-5w8p9",{"micros":30842,"calls":["get_user",{"micros":5828},"get_guilds",{"micros":2157},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":600},"authorized_ip_coro",{"micros":9},"pending_payments",{"micros":820},"apex_user_experiments",{"micros":3},"user_activities",{"micros":1}]}]},"starting_guild_connect",{"micros":26,"calls":[]},"presence_started",{"micros":13074,"calls":[]},"guilds_started",{"micros":57,"calls":[]},"lobbies_started",{"micros":0,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":23215,"calls":[]},"connect_finished",{"micros":23219,"calls":[]},"build_ready",{"micros":9,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 979b79b4dabd5eeab0b43fe4fb352382).
+2025-06-02 15:04:57,033 - __main__ - INFO - MiniSouL#6900 has connected to Discord!
+2025-06-02 15:04:57,034 - __main__ - INFO - Bot is in 1 guilds
+2025-06-02 15:09:24,374 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 15:09:24,378 - discord.client - INFO - logging in using static token
+2025-06-02 15:09:25,320 - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2025-06-02 15:09:25,683 - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-mc2k",{"micros":57126,"calls":["id_created",{"micros":421,"calls":[]},"session_lookup_time",{"micros":2204,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-prd-2-10",{"micros":53249,"calls":["start_session",{"micros":43087,"calls":["discord-api-rpc-67db4945bc-l2lpg",{"micros":34465,"calls":["get_user",{"micros":6473},"get_guilds",{"micros":2885},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":806},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":1096},"apex_user_experiments",{"micros":5},"user_activities",{"micros":2}]}]},"starting_guild_connect",{"micros":26,"calls":[]},"presence_started",{"micros":246,"calls":[]},"guilds_started",{"micros":62,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9810,"calls":[]},"connect_finished",{"micros":9814,"calls":[]},"build_ready",{"micros":10,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: c5c51be11354049b63ef2e4052f113a5).
+2025-06-02 15:09:27,716 - __main__ - INFO - MiniSouL#6900 has connected to Discord!
+2025-06-02 15:09:27,717 - __main__ - INFO - Bot is in 1 guilds
+2025-06-02 15:12:43,669 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 15:12:43,672 - discord.client - INFO - logging in using static token
+2025-06-02 15:12:44,561 - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2025-06-02 15:12:45,061 - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-l1gp",{"micros":204685,"calls":["id_created",{"micros":478,"calls":[]},"session_lookup_time",{"micros":601,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-2-96",{"micros":203244,"calls":["start_session",{"micros":170831,"calls":["discord-api-rpc-67db4945bc-8jxbv",{"micros":145039,"calls":["get_user",{"micros":6319},"get_guilds",{"micros":6913},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":13666},"apex_user_experiments",{"micros":5},"user_activities",{"micros":3}]}]},"starting_guild_connect",{"micros":27,"calls":[]},"presence_started",{"micros":6796,"calls":[]},"guilds_started",{"micros":71,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":25498,"calls":[]},"connect_finished",{"micros":25502,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 841235a13ce26c8f4966c7fd09347879).
+2025-06-02 15:12:47,074 - __main__ - INFO - MiniSouL#6900 has connected to Discord!
+2025-06-02 15:12:47,074 - __main__ - INFO - Bot is in 1 guilds
+2025-06-02 15:31:11,816 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 15:31:11,820 - discord.client - INFO - logging in using static token
+2025-06-02 15:31:12,862 - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2025-06-02 15:31:13,600 - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-jmrb",{"micros":439006,"calls":["id_created",{"micros":626,"calls":[]},"session_lookup_time",{"micros":1145,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-11",{"micros":436897,"calls":["start_session",{"micros":425399,"calls":["discord-api-rpc-67db4945bc-hrnqv",{"micros":393230,"calls":["get_user",{"micros":29895},"get_guilds",{"micros":9360},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":19965},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":5653},"apex_user_experiments",{"micros":5},"user_activities",{"micros":4}]}]},"starting_guild_connect",{"micros":25,"calls":[]},"presence_started",{"micros":410,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10981,"calls":[]},"connect_finished",{"micros":10986,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: f44515ebb1ca8192537661225be0e0df).
+2025-06-02 15:31:15,636 - __main__ - INFO - MiniSouL#6900 has connected to Discord!
+2025-06-02 15:31:15,637 - __main__ - INFO - Bot is in 1 guilds
+2025-06-02 15:33:17,205 - discord.gateway - INFO - Websocket closed with 1000, cannot reconnect.
+2025-06-02 15:33:17,206 - discord.client - INFO - Cleaning up tasks.
+2025-06-02 15:33:17,206 - discord.client - INFO - Cleaning up after 2 tasks.
+2025-06-02 15:33:17,207 - discord.client - INFO - All tasks finished cancelling.
+2025-06-02 15:33:17,207 - discord.client - INFO - Closing the event loop.
+2025-06-02 15:33:17,235 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000024A726C2120>
+2025-06-02 15:33:17,235 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000024A726BBBF0>, 22100.284664)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000024A726C2270>
+2025-06-02 19:20:11,821 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 19:26:14,865 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 19:33:11,710 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-02 19:33:11,716 - discord.client - INFO - logging in using static token
+2025-06-02 19:33:12,646 - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2025-06-02 19:33:13,024 - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-g1zv",{"micros":70751,"calls":["id_created",{"micros":456,"calls":[]},"session_lookup_time",{"micros":303,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-61",{"micros":69679,"calls":["start_session",{"micros":49674,"calls":["discord-api-rpc-67db4945bc-5lv9c",{"micros":37673,"calls":["get_user",{"micros":6971},"get_guilds",{"micros":4927},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":1112},"apex_user_experiments",{"micros":10},"user_activities",{"micros":3}]}]},"starting_guild_connect",{"micros":28,"calls":[]},"presence_started",{"micros":17011,"calls":[]},"guilds_started",{"micros":68,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":2877,"calls":[]},"connect_finished",{"micros":2881,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 3a25c4c59463d55ae157128456e53d4a).
+2025-06-02 19:33:15,061 - __main__ - INFO - MiniSouL#6900 has connected to Discord!
+2025-06-02 19:33:15,062 - __main__ - INFO - Bot is in 1 guilds
+2025-06-02 19:53:59,721 - __main__ - ERROR - Unhandled error in userinfo: Application Command raised an exception: TypeError: '>' not supported between instances of 'NoneType' and 'NoneType'
+2025-06-02 19:54:32,871 - __main__ - ERROR - Unhandled error in userinfo: Application Command raised an exception: TypeError: '>' not supported between instances of 'NoneType' and 'NoneType'
+2025-06-02 19:54:39,565 - __main__ - ERROR - Unhandled error in poll: Application Command raised an exception: Forbidden: 403 Forbidden (error code: 50001): Missing Access
+2025-06-02 19:55:47,236 - discord.gateway - INFO - Websocket closed with 1000, cannot reconnect.
+2025-06-02 19:55:47,237 - discord.client - INFO - Cleaning up tasks.
+2025-06-02 19:55:47,237 - discord.client - INFO - Cleaning up after 2 tasks.
+2025-06-02 19:55:47,237 - discord.client - INFO - All tasks finished cancelling.
+2025-06-02 19:55:47,238 - discord.client - INFO - Closing the event loop.
+2025-06-02 19:55:47,268 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002230CECE120>
+2025-06-02 19:55:47,268 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002230CED3470>, 37848.8606031)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002230CECE270>
+2025-06-03 22:19:36,191 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-03 22:19:36,196 - discord.client - INFO - logging in using static token
+2025-06-03 22:19:37,283 - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2025-06-03 22:19:37,695 - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-1p9p",{"micros":62028,"calls":["id_created",{"micros":594,"calls":[]},"session_lookup_time",{"micros":539,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-129",{"micros":60432,"calls":["start_session",{"micros":41586,"calls":["discord-api-rpc-647f599f7f-x6vp5",{"micros":33520,"calls":["get_user",{"micros":5945},"get_guilds",{"micros":2914},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":1039},"apex_user_experiments",{"micros":4},"user_activities",{"micros":3},"played_application_ids",{"micros":2}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":303,"calls":[]},"guilds_started",{"micros":81,"calls":[]},"lobbies_started",{"micros":2,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18386,"calls":[]},"connect_finished",{"micros":18390,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ba7e699daa69e543fa3869d551948c20).
+2025-06-03 22:19:39,707 - __main__ - INFO - MiniSouL#6900 has connected to Discord!
+2025-06-03 22:19:39,708 - __main__ - INFO - Bot is in 1 guilds
